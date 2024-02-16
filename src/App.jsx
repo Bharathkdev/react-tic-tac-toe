@@ -90,7 +90,6 @@ const App = () => {
   };
 
   const handleRestart = () => {
-    setPlayers(PLAYERS);
     setGameTurns([]);
   };
 
