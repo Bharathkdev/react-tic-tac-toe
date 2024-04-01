@@ -15,6 +15,8 @@ Experience classic fun with a modern twist! My React Tic-Tac-Toe app offers slee
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
+- HTML
+- CSS
 - AWS-Amplify
 
 ## <a name="features">🔋 Features</a>
