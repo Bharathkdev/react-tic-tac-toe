@@ -2,6 +2,9 @@
     <a href="https://main.d2d63s4olu73to.amplifyapp.com/" align="center" target="_blank" rel="noreferrer">React Tic-Tac-Toe Game App</a>
 </div>
 
+![React Tic-Tac-Toe Game](https://github.com/Bharathkdev/react-tic-tac-toe/assets/46343966/d5878b8f-b935-427a-9d38-21f27532d588)
+
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
